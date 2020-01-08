@@ -4,7 +4,9 @@ Mini word processor is like Microsoft word but version lite made with Java by on
 
 You can select a text, change fonts its size and styles, and a little more.
 
+## Notes:
 Sadly this code is written in Spanish but you can always use the google translate.
+
 This code is somewhat clean there's a few things that can be done improve it.
 
 ## License:
