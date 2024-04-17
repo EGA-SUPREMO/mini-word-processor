@@ -1,6 +1,8 @@
 # Mini word processor
 
 Mini word processor made with Java by one student.
+![screenshot](https://github.com/EGA-SUPREMO/mini-word-processor/blob/master/Screenshot%202024-04-13%2017%3A21%3A37.webp)
+
 You can select a text, change fonts its size and styles, and a little more using JTextArea.
 Created as a project to reinforce understanding of object-oriented programming principles by implementing a simple word processor in Java.
 
